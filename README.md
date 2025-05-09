@@ -10,7 +10,7 @@ This notebook (task1_python_basics.ipynb) includes basic Python practice:
 - Arithmetic, comparison, logical, assignment, and membership operators
 - Simple use cases with printed outputs and explanations
 
-- # Task 2: Python Built-in Data Types - Key Concepts & Methods
+# Task 2: Python Built-in Data Types - Key Concepts & Methods
 - Intern Name: [Aniket Dhuke]  
   Date: 6/5/2025
 
@@ -29,7 +29,7 @@ This notebook (task1_python_basics.ipynb) includes basic Python practice:
   # Tuple data type
   how to create tuples using () differnce between list and tuple.
 
-  # TASK_3
+# TASK_3
   This notebook covers essential Python control flow tools used in decision-making and iteration. Each section is designed with clear examples and explanations to help learners understand the logic and usage of different flow-control statements.
 
 Section 1: Conditional Statements if Statement if-else Statement if-elif-else Statement
