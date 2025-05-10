@@ -57,12 +57,45 @@ Covers:
 ### Task 4 - Functions
 **Notebook:** `TASK_4.ipynb`  
 **By:** Pravin Landage  
-Covers:
-- **User-defined Function**
-- **Lambda Function**
-- **Filter Function**
-- **Format Function**
-- **Map Function**  
+###  A. User-defined Functions
+1. Function to return squares of numbers in a list.
+2. Function to count vowels in a string.
+3. Function to check whether a number is an Armstrong number.
+4. Function to return names starting with the letter 'S'.
+5. Function to calculate HCF (Highest Common Factor) of two numbers.
+
+---
+
+###  B. Lambda Functions
+1. Lambda to check if a number is divisible by 5.
+2. Lambda to convert Celsius to Fahrenheit.
+3. Lambda to return the cube of a number.
+4. Lambda to add two strings.
+5. Lambda to check if the string length is greater than 8.
+
+---
+
+###  C. Filter Function
+1. Filter strings with length greater than 4.
+2. Filter numbers greater than 100.
+3. Filter odd numbers using lambda.
+4. Filter names ending with the letter 'a'.
+5. Filter out non-integer values from a mixed list.
+
+---
+
+###  D. Format Function
+1. Format and print a statement:  
+   `"Student {name} scored {marks} marks in {subject}"`.
+
+---
+
+###  E. Map Function
+1. Map to convert a list of integers into their squares.
+2. Map to convert strings to uppercase.
+3. Map with lambda to subtract 2 from every number in a list.
+4. Map to get the length of each word in a sentence.
+5. Map to multiply each element by its index in the list.
 
 ---
 
