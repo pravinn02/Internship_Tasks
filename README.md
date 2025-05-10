@@ -1,41 +1,54 @@
-# Task 1 - Python Basics
+# 🐍 Python Basics for Beginners – Internship Tasks
 
-Intern Name: [Aniket Dhuke]  
-Date: [06/05/2025]
+This repository contains foundational Python practice notebooks developed during internship training. It is structured into three key tasks, each focusing on core concepts with examples and explanations to help beginners understand Python effectively.
 
-# Description
+---
 
-This notebook (task1_python_basics.ipynb) includes basic Python practice:
-- Variable declarations and rules
-- Arithmetic, comparison, logical, assignment, and membership operators
-- Simple use cases with printed outputs and explanations
+## 📌 Repository Overview
 
-# Task 2: Python Built-in Data Types - Key Concepts & Methods
-- Intern Name: [Aniket Dhuke]  
-  Date: 6/5/2025
+| Task | Description | Intern | Date |
+|------|-------------|--------|------|
+| **Task 1** | Python Basics: Variables, Operators | Pravin Landage | 06/05/2025 |
+| **Task 2** | Built-in Data Types: Numbers, Strings, Lists, Tuples | Aniket Dhuke | 06/05/2025 |
+| **Task 3** | Control Flow: if-else, loops, and control statements | — | — |
 
-  # Description
-   This notebook - number,string, list,tuple (Task 2: Python Built-in Data Types - Key Concepts & Methods)
+---
 
-  # number data
-  type : type: int,flot,compelex type conversion using
-  int(),float(),complex(),type()functionto identify data type example, expression and print output
-  # string Data type
-  how to create strings using","",and """string indexing and slicing string method like-upper(),.lower(),.replace(),.split(),string formatting using f",. format()
-  escape characters and raw string.
-  # List data type
-  how to define and access list items list slicing, nested list mutable nature of list
-  list method- append(), reverse(),remove(),pops(),sort(),reverse()in keyword for memebership.
-  # Tuple data type
-  how to create tuples using () differnce between list and tuple.
+## 📘 Task Details
 
-# TASK_3
-  This notebook covers essential Python control flow tools used in decision-making and iteration. Each section is designed with clear examples and explanations to help learners understand the logic and usage of different flow-control statements.
+### ✅ Task 1 – Python Basics  
+**Notebook:** `task1_python_basics.ipynb`  
+**By:** Pravin Landage  
+Covers:
+- Variable declarations and naming rules  
+- Operators: arithmetic, comparison, logical, assignment, membership  
+- Examples with outputs and brief explanations  
 
-Section 1: Conditional Statements if Statement if-else Statement if-elif-else Statement
+---
 
-Section 2: for Loop Iterating through lists, strings, and ranges
+### ✅ Task 2 – Python Built-in Data Types: Key Concepts & Methods  
+**Notebook:** `task2_datatypes.ipynb`  
+**By:** Aniket Dhuke  
+Covers:
+- **Numbers**: int, float, complex; type conversion using `int()`, `float()`, `complex()`  
+- **Strings**: Creation using `"`, `'`, `"""`; indexing/slicing, methods (`upper()`, `lower()`, `replace()`, `split()`), formatting using `f""` and `.format()`, escape characters and raw strings  
+- **Lists**: Creation, indexing, slicing, mutability, methods (`append()`, `remove()`, `pop()`, `sort()`, `reverse()`), membership check with `in`  
+- **Tuples**: Creation, immutability, and comparison with lists  
 
-Section 3: while Loop Looping based on condition Infinite loop handling
+---
 
-Section 4: Control Statements break: Exit the loop early continue: Skip current iteration pass: Placeholder for future code
+### ✅ Task 3 – Python Control Flow Statements  
+**Notebook:** `task3_control_flow.ipynb`  
+Covers:
+- **Conditional Statements**: `if`, `if-else`, `if-elif-else`  
+- **Loops**:
+  - `for` loop: Iterating over lists, strings, ranges  
+  - `while` loop: Looping with condition, handling infinite loops  
+- **Control Statements**:
+  - `break`: Exit loop early  
+  - `continue`: Skip current iteration  
+  - `pass`: Placeholder for future code  
+
+---
+
+
