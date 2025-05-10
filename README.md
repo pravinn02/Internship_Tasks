@@ -12,6 +12,7 @@ This repository contains foundational Python practice notebooks developed during
 | **Task 2** | Built-in Data Types: Numbers, Strings, Lists, Tuples | Pravin Landage | 07/05/2025 |
 | **Task 3** | Control Flow: if-else, loops, and control statements | Pravin Landage | 08/05/2025 |
 | **Task 4** | Functions | Pravin Landage | 09/05/2025 |
+| **Task 5** | Numpy Library | Pravin Landage | 10/05/2025 |
 
 ---
 
