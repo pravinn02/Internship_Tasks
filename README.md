@@ -63,4 +63,47 @@ Covers:
 - **Format Function**
 - **Map Function**  
 
+---
+
+### Task 5 - NumPy Library 
+**Notebook:** `TASK_5.ipynb`  
+**By:** Pravin Landage
+Coveres:
+
+### 1. Library Installation & Importing
+- Installing NumPy using pip.
+- Importing NumPy using alias for ease of use.
+
+### 2. Array Creation
+- Manual creation using lists.
+- Built-in array creation methods:
+  - Arrays filled with zeros or ones.
+  - Sequences of numbers.
+  - Evenly spaced values.
+  - Identity matrices.
+  - Random value arrays.
+
+### 3. Array Operations & Functions
+- Element-wise arithmetic operations: addition, subtraction, multiplication, division.
+- Aggregation functions: sum, mean, max, min.
+- Mathematical functions: square root, exponential, logarithmic.
+- Array reshaping, flattening, and raveling.
+
+### 4. Matrix Operations
+- Performing dot product.
+- Transposing arrays.
+
+### 5. Indexing
+- Accessing elements via indices.
+- Boolean indexing based on conditions.
+- Advanced indexing techniques.
+
+### 6. Slicing
+- Slicing one-dimensional and two-dimensional arrays.
+- Use of negative indexing and step slicing.
+
+
+
+---
+
 
