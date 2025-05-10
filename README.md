@@ -9,8 +9,8 @@ This repository contains foundational Python practice notebooks developed during
 | Task | Description | Intern | Date |
 |------|-------------|--------|------|
 | **Task 1** | Python Basics: Variables, Operators | Pravin Landage | 06/05/2025 |
-| **Task 2** | Built-in Data Types: Numbers, Strings, Lists, Tuples | Aniket Dhuke | 06/05/2025 |
-| **Task 3** | Control Flow: if-else, loops, and control statements | — | — |
+| **Task 2** | Built-in Data Types: Numbers, Strings, Lists, Tuples | Pravin Landage | 07/05/2025 |
+| **Task 3** | Control Flow: if-else, loops, and control statements | Pravin Landage | 08/05/2025 |
 
 ---
 
