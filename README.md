@@ -39,7 +39,8 @@ Covers:
 ---
 
 ###  Task 3 – Python Control Flow Statements  
-**Notebook:** `TASK_3.ipynb`  
+**Notebook:** `TASK_3.ipynb`
+**By:** Pravin Landage  
 Covers:
 - **Conditional Statements**: `if`, `if-else`, `if-elif-else`  
 - **Loops**:
@@ -54,5 +55,12 @@ Covers:
 
 ### Task 4 - Functions
 **Notebook:** `TASK_4.ipynb`  
+**By:** Pravin Landage  
+Covers:
+- **User-defined Function**
+- **Lambda Function**
+- **Filter Function**
+- **Format Function**
+- **Map Function**  
 
 
