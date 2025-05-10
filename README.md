@@ -1,4 +1,4 @@
-#  Python Basics for Beginners – Internship Tasks
+# Internship Tasks
 
 This repository contains foundational Python practice notebooks developed during internship training. It is structured into three key tasks, each focusing on core concepts with examples and explanations to help beginners understand Python effectively.
 
@@ -8,16 +8,17 @@ This repository contains foundational Python practice notebooks developed during
 
 | Task | Description | Intern | Date |
 |------|-------------|--------|------|
-| **Task 1** | Python Basics: Variables, Operators | Pravin Landage | 07/05/2025 |
-| **Task 2** | Built-in Data Types: Numbers, Strings, Lists, Tuples | Pravin Landage | 08/05/2025 |
-| **Task 3** | Control Flow: if-else, loops, and control statements | Pravin Landage | 09/05/2025 |
+| **Task 1** | Python Basics: Variables, Operators | Pravin Landage | 06/05/2025 |
+| **Task 2** | Built-in Data Types: Numbers, Strings, Lists, Tuples | Pravin Landage | 07/05/2025 |
+| **Task 3** | Control Flow: if-else, loops, and control statements | Pravin Landage | 08/05/2025 |
+| **Task 4** | Functions | Pravin Landage | 09/05/2025 |
 
 ---
 
 ##  Task Details
 
 ###  Task 1 – Python Basics  
-**Notebook:** `task1_python_basics.ipynb`  
+**Notebook:** `TASK_1.ipynb`  
 **By:** Pravin Landage  
 Covers:
 - Variable declarations and naming rules  
@@ -27,7 +28,7 @@ Covers:
 ---
 
 ###  Task 2 – Python Built-in Data Types: Key Concepts & Methods  
-**Notebook:** `task2_datatypes.ipynb`  
+**Notebook:** `TASK_2.ipynb`  
 **By:** Pravin Landage  
 Covers:
 - **Numbers**: int, float, complex; type conversion using `int()`, `float()`, `complex()`  
@@ -38,7 +39,7 @@ Covers:
 ---
 
 ###  Task 3 – Python Control Flow Statements  
-**Notebook:** `task3_control_flow.ipynb`  
+**Notebook:** `TASK_3.ipynb`  
 Covers:
 - **Conditional Statements**: `if`, `if-else`, `if-elif-else`  
 - **Loops**:
@@ -50,5 +51,8 @@ Covers:
   - `pass`: Placeholder for future code  
 
 ---
+
+### Task 4 - Functions
+**Notebook:** `TASK_4.ipynb`  
 
 
